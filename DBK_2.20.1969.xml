@@ -18,6 +18,9 @@
                   <persName>Other people who contributed to the project</persName>
          </titleStmt>
          <publicationStmt>
+           <publisher>The Diamondback</publisher>
+           <pubPlace>College Park, Maryland</pubPlace>
+           <date>1969-02-20</date>
             <p>blah blah not sure </p>
          </publicationStmt>
          <sourceDesc>
@@ -27,6 +30,13 @@
               <author>Victor E Neuberg</author>, <title>The Penny Histories</title>.
                 <publisher>OUP</publisher>
   <date>1968</date>. </bibl>
+             <msDesc>
+ <msIdentifier>
+  <settlement>College Park, Maryland</settlement>
+  <repository>University of Marland University Libraries</repository>
+  <idno type="Bod">https://www.lib.umd.edu/univarchives/student-newspapers/id/81f45f53-963b-402b-bfd7-f65703520acf</idno>
+ </msIdentifier>
+</msDesc>
 </sourceDesc>
          </sourceDesc>
       </fileDesc>
